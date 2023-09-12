@@ -1,0 +1,8 @@
+babu As screen:
+
+    TextInput3 As text:
+        Default: ="Babu"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
