@@ -6,3 +6,10 @@ babu As screen:
         Y: =40
         ZIndex: =1
 
+    Label1 As label:
+        Height: =100
+        Text: ="Text"
+        X: =392
+        Y: =250
+        ZIndex: =2
+
